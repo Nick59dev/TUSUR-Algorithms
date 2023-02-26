@@ -2,7 +2,7 @@
 
 ## The following algorithms and data structures are implemented in this repository:
   - Heap Sort
-  - List
+  - Round List
   - Binary Tree
   - Hash Table
-  - Graph Depth Traversal
+  - Graph Depth Traversal and the Spanning Tree computing
